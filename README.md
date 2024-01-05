@@ -1,2 +1,3 @@
-# pythagorean-theorem-html-css-project
-A simple HTML and CSS project.
+# Pythagorean theorem project
+
+A simple Pythagorean Theorem site made for university homework.
