@@ -1,0 +1,92 @@
+body {
+	background-color: #AD9C84;
+	color: #1A4551;
+	text-align: justify;
+	font-family: 'Arial';
+}
+li {
+	background-color: rgba(135,206,235,1.0);
+	margin: 5px 10px;
+	text-align: center;
+	display: inline;
+	padding: 5px 10px;
+}
+ul {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 80px;
+	padding: 50px;
+	border-bottom: solid #3690AB 5px;
+}
+.theorem {
+	background-color: #FFFBF5;
+	color: #42B0D1;
+	font-family: 'Times New Roman';
+	font-style: italic;
+	border-left: solid rgba(135,206,235,1.0) 25px;
+	border-right: solid rgba(135,206,235,1.0) 25px;
+	text-align: justify;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 40px;
+}
+h1 {
+	color: #3690AB;
+	text-align: center;
+	font-family: 'Arial';
+	text-transform: uppercase;
+}
+#formula {
+	text-align: center;
+	font-family: 'Times New Roman';
+	font-style: italic;
+	font-size: 20pt;
+	font-weight: bold;
+}
+p b {
+	font-size: 20pt;
+}
+
+a:link {
+	text-decoration: none;
+	color: #AD9C84;
+}
+
+a:visited {
+	color: #3690AB;
+}
+a:hover {
+	color: AntiqueWhite;
+}
+
+li:hover {
+	background-color: #AD9C84;
+}
+img {
+	 position: relative;
+	 left: 40%;
+	 top: 30px;
+	 margin-bottom: 30px;
+}
+.fig {
+	text-align: center;
+	font-family: 'Times New Roman';
+	font-size: 80%;
+	font-style: italic;
+}
+#page {
+	width: 1000px;
+	background-color: AntiqueWhite;
+	margin: 2em auto;
+	padding: 1em;
+}
+#refer:link {
+	color: #AD9C84;
+	text-decoration: underline;
+}
+#refer:visited {
+	color: #3690AB;
+}
+#refer:hover {
+	color: LightBlue;
+}
